@@ -42,36 +42,6 @@ html .page-wrapper{
 		align-items: center;
 }
 
-/*******************
-Chartistt chart css
-******************/
-.barchrt{
-		.ct-series-a .ct-bar{
-				stroke:$success;
-		}
-		.ct-series-b .ct-bar{
-				stroke:$info;
-		}
-}
-
-.piechart{
-		.ct-series-a .ct-slice-donut{
-				stroke:$info
-		}
-		.ct-series-b .ct-slice-donut{
-				stroke:$success
-		}
-		.ct-series-c .ct-slice-donut{
-				stroke:$purple
-		}
-		.ct-series-d .ct-slice-donut{
-				stroke:$light
-		}
-		.ct-series-e .ct-slice-donut{
-				stroke:$warning
-		}
-}
-
 /*******************/
 /*social-profile-first*/
 /*******************/
